@@ -6,7 +6,7 @@ A Model-based CPU design project simulating a basic von Neumann-style architectu
 
 ## 📘 Project Overview
 
-This project involves implementing a simplified CPU in VHDL, capable of executing a predefined instruction set using control units, registers, memory interface, and a basic arithmetic logic unit (ALU). The architecture follows a microprogrammed control approach with defined register-transfer-level (RTL) instructions and timing cycles.
+This project involves implementing a simplified CPU on Logisim, capable of executing a predefined instruction set using control units, registers, memory interface, and a basic arithmetic logic unit (ALU). The architecture follows a microprogrammed control approach with defined register-transfer-level (RTL) instructions and timing cycles.
 
 ---
 
