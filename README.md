@@ -1,6 +1,6 @@
 # Basic CPU Architecture 🧠🖥️
 
-A VHDL-based CPU design project simulating a basic von Neumann-style architecture. Implemented as part of the **Computer Organization and System Programming** course at the **German University in Cairo (GUC)**, this project covers instruction decoding, control signal generation, register manipulation, and ALU operations.
+A Model-based CPU design project simulating a basic von Neumann-style architecture. This project covers instruction decoding, control signal generation, register manipulation, and ALU operations.
 
 ---
 
