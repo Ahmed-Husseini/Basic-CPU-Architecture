@@ -75,12 +75,12 @@ Example for `ADD`:
 
 ## 🧪 Team Members
 
-| Name                      | ID        | Major                                |
-|---------------------------|-----------|--------------------------------------|
-| Mohamed Yaser Ahmed       | 58-21125  | Mechatronics Engineering |
-| Ahmed Tarek Husseini   | 58-21270  | Mechatronics Engineering |
-| Mohamed Ibrahim Ismail    | 58-16326  | Computer Science |
-| Mohamed Mohsen Abu Ayad   | 58-1653   | Mechatronics Engineering |
-| Ahmed Tarek Rashad        | 58-2693   | Computer Science |
+| Name                      | Major                                |
+|---------------------------|--------------------------------------|
+| Mohamed Yaser Ahmed       | Mechatronics Engineering |
+| Ahmed Tarek Husseini   | Mechatronics Engineering |
+| Mohamed Ibrahim Ismail    | Computer Science |
+| Mohamed Mohsen Abu Ayad   | Mechatronics Engineering |
+| Ahmed Tarek Rashad        | Computer Science |
 
 
