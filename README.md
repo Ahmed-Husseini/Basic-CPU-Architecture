@@ -73,29 +73,14 @@ Example for `ADD`:
 
 ---
 
-## 🔁 Instruction Cycle Example: `MUL`
-
-
----
-
-## 📂 File Structure (Suggested)
-
-
----
-
 ## 🧪 Team Members
 
-| Name                      | ID        | Email                                |
+| Name                      | ID        | Major                                |
 |---------------------------|-----------|--------------------------------------|
-| Mohamed Yaser Ahmed       | 58-21125  | mohamed.yaseribrahim@student.guc.edu.eg |
-| Ahmed Tarek El Husseini   | 58-21270  | ahmed.husseini@student.guc.edu.eg   |
-| Mohamed Ibrahim Ismail    | 58-16326  | mohamed.ahmedismail@student.guc.edu.eg |
-| Mohamed Mohsen Abu Ayad   | 58-1653   | mohamed.aboayad@student.guc.edu.eg  |
-| Ahmed Tarek Rashad        | 58-2693   | ahmed.rashad@guc.edu.eg             |
+| Mohamed Yaser Ahmed       | 58-21125  | Mechatronics Engineering |
+| Ahmed Tarek Husseini   | 58-21270  | Mechatronics Engineering |
+| Mohamed Ibrahim Ismail    | 58-16326  | Computer Science |
+| Mohamed Mohsen Abu Ayad   | 58-1653   | Mechatronics Engineering |
+| Ahmed Tarek Rashad        | 58-2693   | Computer Science |
 
----
-
-## 📜 License
-
-This project is developed for academic purposes as part of the coursework at GUC. All rights reserved to the respective contributors.
 
